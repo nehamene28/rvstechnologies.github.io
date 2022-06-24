@@ -698,7 +698,7 @@ hr {
   }
 }
 
-@media (max-width: 380px){
+@media (max-width: 424px){
   .th {
     height: 60px !important;
 }
